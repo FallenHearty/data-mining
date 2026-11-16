@@ -5,7 +5,7 @@
 - ChestPainType: type of chest pain (ATA, NAP, ASY, or TA)
 - RestingBP: resting blood pressure in mm Hg
 - Cholesterol: serum cholesterol in mg/dL
-- FastingBS: 1 if fasting blood sugar is above 120 mg/dL; otherwise 0
+- FastingBS: 1 if fasting blood sugar is above 120 mg/dL; otherwise 0. This does not indicate a diabetes diagnosis
 - RestingECG: resting electrocardiogram result
 - MaxHR: maximum heart rate achieved
 - ExerciseAngina: exercise-induced angina, Y or N
