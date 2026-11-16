@@ -8,3 +8,5 @@ open the workflow in knime 5.12. select your copy of heart.csv in the csv reader
 zero cholesterol and zero resting blood pressure were marked as missing. HeartDisease is the target.
 
 missing values are left blank and need to be handled before training a model. the workflow also adds MaxHR / (220 - Age) as a new column.
+
+the data does not include a diabetes diagnosis. fasting blood sugar alone cannot confirm whether someone has diabetes.
