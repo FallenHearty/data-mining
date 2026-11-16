@@ -19,3 +19,5 @@ After treating the zero values as missing:
 Oldpeak has 13 negative values. We kept them for further review.
 
 Age and MaxHR are slightly left-skewed. RestingBP and Cholesterol are right-skewed.
+
+See the [data dictionary](data_dictionary.md) for column definitions.
