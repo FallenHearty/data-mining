@@ -12,3 +12,10 @@
 - Oldpeak: exercise-related ST depression compared with rest
 - ST_Slope: slope of the peak exercise ST segment (up, flat, or down)
 - HeartDisease: 1 for heart disease; 0 for no heart disease
+
+## chest pain codes
+
+- ATA: atypical angina
+- NAP: non-anginal pain
+- ASY: asymptomatic
+- TA: typical angina
