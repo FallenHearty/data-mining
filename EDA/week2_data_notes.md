@@ -4,7 +4,7 @@ The heart disease dataset has 918 rows and 12 columns. HeartDisease is the targe
 
 ## data quality
 
-The raw file has no blank cells. Cholesterol is 0 in 172 rows (18.74%). RestingBP is 0 in one row (0.11%). We treated these zeros as missing in the summary and box plots. Oldpeak includes negative values, which were kept for review.
+Cholesterol is 0 in 172 rows (18.74%). RestingBP is 0 in one row (0.11%). We treated these zeros as missing in the summary and box plots. Oldpeak includes negative values, which were kept for review.
 
 ## summary
 
