@@ -13,3 +13,5 @@ team members, responsibilities, work completed, and effort percentages will be a
 - [week 2 data notes](EDA/week2_data_notes.md)
 - [week 3 knime workflow and notes](EDA/week3_notes.md)
 - [week 3 cleaned data](data/week3_knime_clean.csv)
+- [original data](data/heart.csv)
+- [data dictionary](EDA/data_dictionary.md)
