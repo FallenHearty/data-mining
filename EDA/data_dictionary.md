@@ -19,3 +19,9 @@
 - NAP: non-anginal pain
 - ASY: asymptomatic
 - TA: typical angina
+
+## resting ECG codes
+
+- Normal: normal result
+- ST: ST-T wave abnormality
+- LVH: left ventricular hypertrophy
