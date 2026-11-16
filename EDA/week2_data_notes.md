@@ -17,3 +17,5 @@ After treating the zero values as missing:
 | MaxHR | 136.81 | 138 | 25.46 |
 
 Oldpeak has 13 negative values. We kept them for further review.
+
+Age and MaxHR are slightly left-skewed. RestingBP and Cholesterol are right-skewed.
