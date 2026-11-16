@@ -15,3 +15,5 @@ After treating the zero values as missing:
 | RestingBP | 132.54 | 130 | 18.00 |
 | Cholesterol | 244.64 | 237 | 59.15 |
 | MaxHR | 136.81 | 138 | 25.46 |
+
+Oldpeak has 13 negative values. We kept them for further review.
