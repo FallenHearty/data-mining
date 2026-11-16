@@ -17,8 +17,8 @@ some things we found:
 
 without the zeros, the cholesterol groups had disease rates of 41.7%, 45.2%, 46.8% and 57.3%. the group cutoffs were 207.25, 237 and 275. the rates went up by group, but that does not mean every person with higher cholesterol has a higher risk.
 
-for the under 50 group with our blood pressure, cholesterol and fasting blood sugar filters, 8 had heart disease. 7 of those 8 had asymptomatic chest pain. we used resting blood pressure from 90 to 119, cholesterol above 0 and below 200, and fasting blood sugar = 0.
+for the under 50 group with our blood pressure, cholesterol and fasting blood sugar filters, 8 had heart disease. 7 of those 8 had asymptomatic chest pain. there were also 9 people without heart disease in this group, and 1 had asymptomatic chest pain. we used resting blood pressure from 90 to 119, cholesterol above 0 and below 200, and fasting blood sugar = 0.
 
-among people with asymptomatic chest pain, exercise angina showed up in 68.4% of those with heart disease and 27.9% of those without. average MaxHR was 125.8 with heart disease and 138.5 without. average Oldpeak was 1.33 with heart disease and 0.53 without.
+among people with asymptomatic chest pain, exercise angina showed up in 68.4% of those with heart disease and 27.9% of those without. this group had 392 people with heart disease and 104 without. average MaxHR was 125.8 with heart disease and 138.5 without. average Oldpeak was 1.33 with heart disease and 0.53 without.
 
 MaxHR had a -0.400 correlation with heart disease. the heart rate ratio was -0.335.
