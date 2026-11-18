@@ -11,3 +11,12 @@ This project uses heart disease data to explore patient health and build a predi
 - [week 3 cleaned data](data/week3_knime_clean.csv)
 - [original data](data/heart.csv)
 - [data dictionary](EDA/data_dictionary.md)
+
+
+week folders:
+
+[week 2](week2_submission/)
+
+[week 3](week3_submission/)
+
+[week 4](week4_submission/)
