@@ -13,7 +13,7 @@ the data does not include a diabetes diagnosis. fasting blood sugar alone cannot
 
 some things we found:
 
-88.4% of the people with zero cholesterol had heart disease, compared to 47.7% of the others.
+88.4% of the people with zero cholesterol had heart disease, compared to 47.7% of the others. there were 172 people in the zero group and 746 in the other group. the zero values likely mean the cholesterol reading is missing.
 
 without the zeros, the cholesterol groups had disease rates of 41.7%, 45.2%, 46.8% and 57.3%. the group cutoffs were 207.25, 237 and 275. the rates went up by group, but that does not mean every person with higher cholesterol has a higher risk.
 
