@@ -9,6 +9,7 @@ team members, responsibilities, work completed, and effort percentages will be a
 
 ## project files
 
+- [week 2 submission](EDA/week2_submission.pdf)
 - [week 2 knime workflow](EDA/week2_knime_audit_simple.knwf)
 - [week 2 data notes](EDA/week2_data_notes.md)
 - [week 3 knime workflow and notes](EDA/week3_notes.md)
