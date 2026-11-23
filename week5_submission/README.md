@@ -1,7 +1,15 @@
-week 5
+# Week 5: Fairness Correction
 
-open week5_model_comparison.knwf in knime 5.12 and run all nodes. the workflow includes heart.csv.
+We tested whether oversampling and a lower prediction cutoff for women could help the model catch more cases of heart disease.
 
-the branches compare the original model with a lower cutoff, extra weight for women with heart disease, and both changes together. the scorer and roc nodes show the results.
+To run the setup:
 
-this uses one test split that was reviewed while making changes. female recall improved with both changes, but female roc-auc did not. more testing is needed.
+1. Import `week5_revised_model.knwf` into KNIME 5.12.0.
+2. Open the workflow and select **Execute All**. The workflow includes `heart.csv`.
+3. Open the Scorer and ROC Curve nodes for women and men to see recall, precision, and ROC-AUC.
+
+To reproduce the five-fold comparison, run `week5_cv_baseline.knwf` and `week5_cv_missing_flag_v2.knwf`. To see the cutoff-only and oversampling-only tests, run `week5_model_comparison.knwf`.
+
+The results are exploratory because we chose changes after looking at the data and had already seen the earlier test split.
+
+[Week 5 report and screenshots](week5_report_current.pdf)
